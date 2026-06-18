@@ -96,6 +96,17 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
+## 🤝 Meet The Team
+The people behind NanoServe:
+
+* **Priyanshu Jajal** - Backend Developer
+   * [LinkedIn](https://www.linkedin.com/in/priyanshu-jajal-617a83324) | [GitHub](https://github.com/PriyanshuJajal)
+
+* **Helin Chaudhari** - Backend Developer
+   * [LinkedIn](https://www.linkedin.com/in/helin-chaudhari-635255349/) | [GitHub](https://github.com/helin2975)
+
+---
+
 <p align="center">
   <i>Building the future of the web, one byte at a time.</i>
 </p>
